@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Denis Do — Strategic Finance, Revenue Operations and Applied AI" width="100%"></p>
+<p align="center"><img src="./banner.png" alt="Denis Do — Strategic Finance, Revenue Operations and Applied AI" width="100%"></p>
 
 [Portfolio](https://denisdo.com) · Singapore / APAC
 
@@ -10,13 +10,13 @@ Previously APAC Finance Director at adm × Indicia and regional Sales Finance Se
 
 ## Selected projects
 
-<img src="assets/arcane.svg" alt="Arcane Finance — planning, forecasting and commercial intelligence" width="100%">
+<img src="./arcane.png" alt="Arcane Finance — planning, forecasting and commercial intelligence" width="100%">
 
 **Arcane Finance** · In development
 
 A finance and revenue operations platform designed around the needs of commercial and finance leaders. Its intended scope includes scenario planning, forecasting, performance analytics and AI-assisted decision support.
 
-<img src="assets/curation.svg" alt="Intelligent Photo Curation — ingest, analyse, rank, curate" width="100%">
+<img src="./curation.png" alt="Intelligent Photo Curation — ingest, analyse, rank, curate" width="100%">
 
 **Intelligent Photo Curation** · In development
 
