@@ -1,4 +1,8 @@
-<p align="center"><img src="./banner.png" alt="Denis Do — Strategic Finance, Revenue Operations and Applied AI" width="100%"></p>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
+  <img alt="Denis Do — Strategic Finance, Revenue Operations and Applied AI" src="./banner-light.png" width="100%">
+</picture></p>
 
 [Portfolio](https://denisdo.com) · Singapore / APAC
 
@@ -10,13 +14,21 @@ Previously APAC Finance Director at adm × Indicia and regional Sales Finance Se
 
 ## Selected projects
 
-<img src="./arcane.png" alt="Arcane Finance — planning, forecasting and commercial intelligence" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./arcane-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./arcane-light.png">
+  <img alt="Arcane Finance — planning, forecasting and commercial intelligence" src="./arcane-light.png" width="100%">
+</picture>
 
 **Arcane Finance** · In development
 
 A finance and revenue operations platform designed around the needs of commercial and finance leaders. Its intended scope includes scenario planning, forecasting, performance analytics and AI-assisted decision support.
 
-<img src="./curation.png" alt="Intelligent Photo Curation — ingest, analyse, rank, curate" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./curation-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./curation-light.png">
+  <img alt="Intelligent Photo Curation — ingest, analyse, rank, curate" src="./curation-light.png" width="100%">
+</picture>
 
 **Intelligent Photo Curation** · In development
 
